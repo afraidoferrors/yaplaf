@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Das Element TUWEL enthaelt einerseits das Element COURSE welches als Attribute Informationen zum Kurs (LVA-Nr, Semester, Aufgabenname, timestamp, Name des ERstellers)
+          angibt sowie das Element USERS mit allen Studierenden mit Elementen USER die folgende weitere Elemente enthalten
+          lastname, firstname, matrikelnr, kennzahl, grade, comment, studentmodified (nur Datum und Zeit), studentdata, teachermodified.-->
+ <TUWEL>
+  <COURSE lva="265068" semester="" assignmenttype="online" assignmentname="Aufgabe 2" timestamp="1179910300" user="Michael Tesar">
+  <USERS group="all users">
+    <USER>
+      <LASTNAME>Musterfrau</LASTNAME>
+      <FIRSTNAME>Maxi</FIRSTNAME>
+      <MATRIKELNR>1234567</MATRIKELNR>
+      <KENNZAHL>N202</KENNZAHL>
+      <GRADE>5</GRADE>
+      <COMMENT>bitte beim nächsten mal vor ad2 eine leerzeile. danke.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;KORREKTUR: -3 Pkt wegen tlw identer Abgabe zu Phase 2
+&lt;br /&gt; </COMMENT>
+      <STUDENTMODIFIED>Donnerstag,  17 Mai 2007, 02:35</STUDENTMODIFIED>
+      <STUDENTDATA>
+&lt;p style=&quot;margin-bottom: 0cm;&quot;&gt;ad1: zu prüfen ist §225a StGB :Es soll der Anschein erweckt werden das die Seite von einer anderen Person (Bank) betrieben wird... Neben dem Tatbildvorsatz ist idR auch der erweiterte Vorsatz, die falschen Daten im Rechtsverkehr zum Beweis eines Rechtsverhältnisses zu gebrauchen, gegeben. Objektiver Tatbestand § 225a erfüllt! des weiteren ist zu prüfen § 126c StGB Missbrauch von Computerprogrammen oder Zugangsdaten IVM §146, §148a §126c Abs1 Z 2 StGB Demnach macht sich strafbar, wer sich einen Zugangscode mit dem Vorsatz verschafft, dass dieser zur Begehung eines betrügerischen Datenverarbeitungsmissbrauchs (§ 148a StGB) gebraucht werde. Da aus dem Sachverhalt nicht hervorgeht ob die geforderten Daten tatsächlich eingegeben wurden handelt es sich hier vorerst nur um einen Versuch laut §15Abs1und 2 .Dieser regelt den Tatbestand des Versuches und dessen Strafbarkeit. §15 IVM §126c und weitere ist zu bejahen. Ebenfalls denkbar wäre ein §15 Abs1,2 IVM § 108 Abs 1: Nach dem Wortlaut des § 108 ist strafbar, wer einen anderen „in seinen Rechten“ dadurch schädigt, dass er ihn oder einen Dritten durch Täuschung über Tatsachen zu einer Handlung, Duldung oder Unterlassung verleitet, die den Schaden herbeiführt .....wäre im vorliegenden Fall zutreffend. (ist aber umstritten!).Ad2 Verwertungs-Phase Für die Verwertungs-Phase prüfen wir die Strafbarkeit nach § 146 StGB (Betrug) und § 148a StGB (betrügerischer Datenverarbeitungsmissbrauch). § 146 erfordert die Täuschung eines Menschen, § 148 hingegen die „Täuschung“ einer Maschine. Eine Strafbarkeit kommt nach § 146 nur in Betracht, wenn der Täter die in der Phishing-Phase erlangnten Daten gegenüber einer natürlichen Person einsetzt (zB Phonebanking). In allen anderen Fällen müsste mE eine Subsumtion unter § 148a erfolgen. Abschließen sei anzumerken das je nach der Höhe des Schadens der § 147 Schwerer Betrug (Qualifikation des §146!) ebenfalls zu prüfen sei.
+ </STUDENTDATA>
+    </USER>
+    <USER>
+      <LASTNAME>Mustermann</LASTNAME>
+      <FIRSTNAME>Max</FIRSTNAME>
+      <MATRIKELNR>7654321</MATRIKELNR>
+      <KENNZAHL>A033526</KENNZAHL>
+      <GRADE>4</GRADE>
+      <COMMENT>-3 Punkte wegen tlw. identer Abgaben zu Phase 2
+&lt;br /&gt;
+&lt;br /&gt;Argumentation zu 1 nicht ganz richtig: -1 Punkt</COMMENT>
+      <STUDENTMODIFIED>Donnerstag,  17 Mai 2007, 08:57</STUDENTMODIFIED>
+      <STUDENTDATA>1. Hinsichtlich der strafrechtlichen Würdigung der Phishing-Attacken ist zwischen dem Auskundschaften der Zugangsdaten und/oder TANs (eigentliches Phishing) sowie dem späteren Benutzen dieser Daten um&amp;nbsp; etwa Zugriff auf das fremde Konto zu erlangen zu differenzieren. Das eigentliche Phishen wird vom Tatbestand des § 126c StGB (Missbrauch von Computerprogrammen oder Zugangsdaten) in ausreichendem Maße erfasst. Demnach macht sich strafbar, wer sich einen Zugangscode mit dem Vorsatz verschafft, dass dieser zur Begehung eines betrügerischen Datenverarbeitungsmissbrauchs (§ 148a StGB) gebraucht werde. Entscheidend ist einzig und allein, dass der Täter mit dem Vorsatz handelt, die Daten später gewinnbringend zu verwerten. Ist der Täter mit seiner Phishing-Attacke erfolgreich unterfällt jede unbefugte Abbuchung im Namen des Opfers unter den bereits erwähnten Tatbestand des § 148a StGB. Allerdings wird die Vorbereitung eines Diebstahls gemäß § 126c StGB nicht erfasst. Ein weiterer in Betracht kommender Straftatbestand ist § 108 StGB. Nach dem Wortlaut des §108 ist strafbar, wer einen anderen in seinen Rechten dadurch schädigt, dass er ihn oder einen Dritten durch Täuschung über Tatsachen zu einer Handlung, Duldung oder Unterlassung verleitet, die den Schaden herbeiführt. Eine Strafbarkeit nach § 225a StGB ist daher i.d.R. zu bejahen. Das in der Phishing-Phase erfolgende sich Verschaffen bzw. das nachfolgende Besitzen erfüllt daher den Tatbestand. Beurteilt man hingegen die Verwertungsphase nur nach § 146, so hat der Täter in der Phishing-Phase nur einen Vorsatz § 146 jedoch nicht § 148a zu begehen. Für die Phishing-Phase kann daher zusammenfassend gesagt werden, dass i.d.R. eine Strafbarkeit nach § 225a, § 119 oder § 119a eintritt.
+&lt;br /&gt;2. Für die Verwertungs-Phase kommt nur eine Strafbarkeit nach § 146 StGB (Betrug) und §148a StGB (betrügerischer Datenverarbeitungsmissbrauch) in Betracht. Grundsätzlich erfordert § 146 die Täuschung eines Menschen, § 148 hingegen die Täuschung einer Maschine. Meines Erachtens kommt eine Strafbarkeit nach § 146 daher nur in Betracht, wenn der Täter die in der Phishing-Phase erlangten Daten gegenüber einer natürlichen Person einsetzt. In allen anderen Fällen müsste eine Subsumtion unter § 148a erfolgen.
+&lt;br /&gt;</STUDENTDATA>
+    </USER>
+  </USERS>
+  </COURSE>
+</TUWEL>

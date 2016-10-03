@@ -1,5 +1,5 @@
 # yaplaf
-A little software that compares texts with the longes common string algorithm that I wrote for a bachelor thesis in 2008.
+A little software that compares texts with the longes common string algorithm I wrote for a bachelor thesis in 2008.
 
 It was used to compare short texts students had to write in TU Wien's E-Learning platform TUWEL.
 
